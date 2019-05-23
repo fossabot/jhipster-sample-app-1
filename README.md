@@ -1,4 +1,6 @@
 # jhipsterSampleApplication - LGTM
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fpmverma%2Fjhipster-sample-app.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fpmverma%2Fjhipster-sample-app?ref=badge_shield)
+
 
 This application was generated using JHipster 6.0.1, you can find documentation and help at [https://www.jhipster.tech/documentation-archive/v6.0.1](https://www.jhipster.tech/documentation-archive/v6.0.1).
 
@@ -195,3 +197,7 @@ To configure CI for your project, run the ci-cd sub-generator (`jhipster ci-cd`)
 [protractor]: https://angular.github.io/protractor/
 [leaflet]: http://leafletjs.com/
 [definitelytyped]: http://definitelytyped.org/
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fpmverma%2Fjhipster-sample-app.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fpmverma%2Fjhipster-sample-app?ref=badge_large)
